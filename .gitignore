@@ -13,3 +13,5 @@ venv/
 env/
 Scripts/
 Lib/
+include/
+share/
